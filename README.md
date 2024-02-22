@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## Connect with me:
+
+ <a href="https://www.linkedin.com/in/oleksandr-novychenko/">
+    <img src="svg/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a> 
+<a href="https://www.instagram.com/aleksandrnovychenko/">
+    <img src="svg/instagramm.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a> 
+  <a href="http://t.me/NovychenkoA">
+    <img src="svg/telegramm.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+  </a>
+
 <!--
 **A-Novychenko/A-Novychenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
