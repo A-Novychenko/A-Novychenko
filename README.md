@@ -2,15 +2,18 @@
 
 ## Connect with me:
 
- <a href="https://www.linkedin.com/in/oleksandr-novychenko/">
+ <a href="https://www.linkedin.com/in/oleksandr-novychenko/" target="_blank"
+          rel="noopener noreferrer nofollow">
     Linkedin
   </a> 
   <br/>
-<a href="https://www.instagram.com/aleksandrnovychenko/">
+<a href="https://www.instagram.com/aleksandrnovychenko/" target="_blank"
+          rel="noopener noreferrer nofollow">
   Instagram
   </a> 
   <br/>
-  <a href="http://t.me/NovychenkoA">
+  <a href="http://t.me/NovychenkoA" target="_blank"
+          rel="noopener noreferrer nofollow">
    Telegram
   </a>
 
