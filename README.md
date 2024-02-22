@@ -3,13 +3,15 @@
 ## Connect with me:
 
  <a href="https://www.linkedin.com/in/oleksandr-novychenko/">
-    linkedin
+    Linkedin
   </a> 
+  <br/>
 <a href="https://www.instagram.com/aleksandrnovychenko/">
-  instagram
+  Instagram
   </a> 
+  <br/>
   <a href="http://t.me/NovychenkoA">
-   telegram
+   Telegram
   </a>
 
 <!--
