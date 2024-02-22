@@ -6,10 +6,10 @@
     <img src="assets/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a> 
 <a href="https://www.instagram.com/aleksandrnovychenko/">
-    <img src="assets/instagramm.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a> 
   <a href="http://t.me/NovychenkoA">
-    <img src="assets/telegramm.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+    <img src="assets/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>
 
 <!--
