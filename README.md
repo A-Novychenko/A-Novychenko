@@ -2,6 +2,11 @@
 
 ## Connect with me:
 
+ <a href="mailto:novychenkoae@gmail.com" target="_blank"
+          rel="noopener noreferrer nofollow">
+    NovychenkoAE@gmail.com
+  </a> 
+  <br/>
  <a href="https://www.linkedin.com/in/oleksandr-novychenko/" target="_blank"
           rel="noopener noreferrer nofollow">
     Linkedin
