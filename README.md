@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Oleksandr, a Junior Full Stack Developer
+### Hi there 👋 I'm Oleksandr, a Full Stack Developer
 
 ## Connect with me:
 
