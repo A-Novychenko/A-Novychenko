@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Oleksandr, a Full Stack Developer
 
----
-
 ### :man_technologist: About Me:
 
 I am a junior full-stack developer with two years of overall programming experience and over six
@@ -20,10 +18,8 @@ direction of full-stack development, working in a team and contributing to high-
     <a href="http://t.me/NovychenkoA" target="_blank"><img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710417230/Icons/bxmcj1b7thyoq6n9qvwj.png" width="40" height="40" alt="telegram group" /></a>
        <a href="https://www.instagram.com/aleksandrnovychenko/" target="_blank"><img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710417230/Icons/ivlefhxgovg4kaxdyysh.png" width="40" height="40" alt="telegram group" /></a>
   </div>
+<br/>
 
----
-
-### 📔 Contacts:
 ```plaintext
 Oleksandr Novychenko
 Full Stack Developer | React, Next, React Native, Node, TypeScript
@@ -51,8 +47,6 @@ github: https://github.com/A-Novychenko
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; 
 </div>
-
----
 
 ### 🛠 Tools:
 
