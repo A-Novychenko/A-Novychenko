@@ -22,33 +22,38 @@ direction of full-stack development, working in a team and contributing to high-
 Oleksandr Novychenko
 Full Stack Developer | React, Next, React Native, Node, TypeScript
 Kyiv, Ukraine
-
-mail: novychenkoae@gmail.com
+email: novychenkoae@gmail.com
 phone: +38-063-999-35-70, +38-067-999-55-70
 telegram: @NovychenkoA
 github: https://github.com/A-Novychenko
 ```
 ---
 
-### 💻 Technologies:
+### 💻 Technologies and tools:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="html5" alt="html5" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="css" alt="css" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="javascript" alt="javascript" width="40" height="40"/>&nbsp
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710497317/Icons/mvqwvwrsmhwazvs1oncx.svg" title="typescript" alt="typescript" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="reactjs" alt="reactjs" width="40" height="40"/>&nbsp
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710496584/Icons/zf61rbhrianq3zjdmdm1.png" title="nextjs" alt="nextjs" width="40" height="40"/>&nbsp
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710496938/Icons/cwqce7ofnyrmjcngkvar.png" title="reactnative" alt="reactnative" width="40" height="40"/>&nbsp
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710497731/Icons/nsmy9siqgz7hpqvdziqf.svg" title="expo" alt="expo" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
-  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original.svg" title="express" alt="express" width="40" height="40"/>&nbsp
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710497183/Icons/ewpjxkihsw3zdmz6tesi.png" title="express" alt="express" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongodb" alt="mongodb" width="40" height="40"/>&nbsp
+   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710499392/Icons/f49kngagx0vkoeqjs1pt.svg" title="strapi" alt="strapi" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710497951/Icons/nkwzywvsfehkqatdzsxh.svg" title="taiwind" alt="taiwind" width="40" height="40"/>&nbsp;
+  <img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" title="emotion" alt="emotion" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710498562/Icons/fqxhx2th32e4fhr6mets.svg" title="reactrouter" alt="reactrouter" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710498392/Icons/ip3mtuzktnsylwusai4v.svg" title="reacthookform" alt="reacthookform" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/webpack/webpack-original.svg" title="webpack" alt="webpack" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp; 
-</div>
-
-### 🛠 Tools:
-
-<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
+
+
 
