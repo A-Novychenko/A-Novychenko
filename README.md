@@ -47,7 +47,6 @@ github: https://github.com/A-Novychenko
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710497951/Icons/nkwzywvsfehkqatdzsxh.svg" title="taiwind" alt="taiwind" width="40" height="40"/>&nbsp;
   <img src="https://raw.githubusercontent.com/emotion-js/emotion/main/emotion.png" title="emotion" alt="emotion" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710505572/Icons/acw7kpzresaywathgvzc.svg" title="styledcomponents" alt="styledcomponents" width="40" height="40"/>&nbsp;
-  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710505604/Icons/zcg75onnql7fof75kbxo.svg" title="marialui" alt="marialui" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" title="sass/scss" alt="sass/scss" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="redux" alt="redux" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710506388/Icons/iyunnebyepp7ghmkj3uj.png" title="zustand" alt="zustand" width="40" height="40"/>&nbsp;
@@ -55,6 +54,8 @@ github: https://github.com/A-Novychenko
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710498392/Icons/ip3mtuzktnsylwusai4v.svg" title="reacthookform" alt="reacthookform" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710505116/Icons/m6o2fc0waor7k55ma7r8.svg" title="axios" alt="axios" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710505670/Icons/vieqg95trjdytiffmeue.png" title="svgr" alt="svgr" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710505604/Icons/zcg75onnql7fof75kbxo.svg" title="marialui" alt="marialui" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710506654/Icons/uida5fj61ruphrnqzs38.svg" title="headless-ui" alt="headless-ui" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710506045/Icons/tv97jj3ttfeucsymldz7.svg" title="d3" alt="d3" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710505969/Icons/ltyoo7jzasekgxopc6ag.png" title="i18n" alt="i18n" width="40" height="40"/>&nbsp;
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710505116/Icons/m6o2fc0waor7k55ma7r8.svg" title="coinbase" alt="coinbase" width="40" height="40"/>&nbsp;
@@ -63,6 +64,8 @@ github: https://github.com/A-Novychenko
   <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710504992/Icons/idchttu21ah27mpghzmo.svg" title="vite" alt="vite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="git" alt="git" width="40" height="40"/>&nbsp
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710507284/Icons/d46etkih0qwadxnjcfbt.svg" title="vercel" alt="vercel" width="40" height="40"/>&nbsp;
+  <img src="https://res.cloudinary.com/dkwbqq1n1/image/upload/v1710507100/Icons/ubxc2sskmd7m5sjankh4.svg" title="render" alt="render" width="40" height="40"/>&nbsp;
 </div>
 
 
