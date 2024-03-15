@@ -1,7 +1,5 @@
 # Hi there 👋 I'm Oleksandr, a Full Stack Developer
 
-### :man_technologist: About Me:
-
 I am a junior full-stack developer with two years of overall programming experience and over six
 months of commercial experience. I have deep knowledge of HTML, CSS, and JavaScript, React,
 Next, React Native on the frontend, as well as Node.js, Express, and basic skills in working with
@@ -54,22 +52,3 @@ github: https://github.com/A-Novychenko
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
 </div>
 
----
-
-
-
-
-### ⚙️ GitHub статистика:
-
-<table>
-  <tr>
-    <td>
-      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=A-Novychenko&theme=dark&background=000000" alt="webDev's Github stats" />
-    </td>
-    <td>
-      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=A-Novychenko&layout=compact&theme=vision-friendly-dark" />
-    </td>
-  </tr>
-</table>
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=A-Novychenko)
