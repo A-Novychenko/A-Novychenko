@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Oleksandr, a Full Stack Developer
 
-I am a junior full stack developer with two years of overall programming experience and over six
+I am a full stack developer with two years of overall programming experience and over six
 months of commercial experience. I have deep knowledge of HTML, CSS, and JavaScript, React,
 Next, React Native on the frontend, as well as Node.js, Express, and basic skills in working with
 databases on the backend. I am capable of quickly learning and adapting to new technologies
